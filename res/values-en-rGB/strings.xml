@@ -214,7 +214,6 @@
     <string name="accessibility_super_eis_pr_on">Steady video PRO is on</string>
     <string name="accessibility_super_macro_off">Super macro is off</string>
     <string name="accessibility_super_macro_on">Super macro is on</string>
-    <string name="accessibility_super_moon_silhouette_panel_on">Editing panel</string>
     <string name="accessibility_tilt_shift_circle_button">Tilt shift. Circle.</string>
     <string name="accessibility_tilt_shift_parallel_button">Tilt shift. Parallel.</string>
     <string name="accessibility_time">Time</string>
@@ -1362,7 +1361,6 @@ look larger on photos"</string>
     <string name="module_name_more">More</string>
     <string name="module_name_multi_camera">Multicam</string>
     <string name="module_name_new_slow_motion">Slow motion</string>
-    <string name="module_name_panorama">Panorama</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1373,9 +1371,7 @@ look larger on photos"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Scanner</string>
     <string name="module_name_square">Square</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Change focus distance here</string>
-    <string name="module_name_super_moon">Supermoon</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videos can be up to %2d seconds long</string>
@@ -1746,7 +1742,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_normal_wide_ldc_description">Correct distorted faces of the people who are close to the edge of the frame</string>
     <string name="pref_camera_normal_wide_ldc_title">Correct face distortions on group photos</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Drag the shutter button to the left to add an additional floating shutter, which can be placed anywhere on the screen</string>
-    <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_peak_entry_off">Off</string>
     <string name="pref_camera_peak_entry_on">On</string>
     <string name="pref_camera_peak_title">Focus peaking</string>
@@ -2117,7 +2112,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
     <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
     <string name="simple_mode_button_text_manual">Turn off Manual</string>
-    <string name="simple_mode_button_text_panorama">Turn off panorama</string>
     <string name="simple_mode_button_text_scene">Turn off Scene mode</string>
     <string name="simple_mode_button_text_slow_video">Turn off time-lapse</string>
     <string name="simple_mode_button_text_square">Turn off Square</string>
@@ -2182,18 +2176,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="super_eis_pro">Steady video PRO</string>
     <string name="super_eis_pro_disabled_hint">Steady video PRO is off</string>
     <string name="super_macro_mode">Super macro</string>
-    <string name="super_moon_black_cat">Cat</string>
-    <string name="super_moon_branch_bird">Nightingale</string>
-    <string name="super_moon_cable_car">Cable car</string>
-    <string name="super_moon_climb">Climbing</string>
-    <string name="super_moon_flight">Flight</string>
-    <string name="super_moon_flying_bird">Bird</string>
-    <string name="super_moon_improve_effect_tips">Place the moon in the circle</string>
-    <string name="super_moon_in_city">Moonlit streets</string>
-    <string name="super_moon_leaf">Leaves</string>
-    <string name="super_moon_miss">Moonlight falls at the foot of my bed, seeming like frost on the frozen ground.</string>
-    <string name="super_moon_under">Moonlight</string>
-    <string name="super_moon_window">Window</string>
     <string name="super_night_hint">Optimising image… Keep your device stable.</string>
     <string name="super_night_owl_toast">Keep your phone steady</string>
     <string name="super_night_se_tip">Night mode</string>
@@ -2505,8 +2487,6 @@ to record and edit videos on the go"</string>
     <string name="watermark_tab_general">General</string>
     <string name="watermark_tab_scene">Scene</string>
     <string name="watermark_tab_spots">Site</string>
-    <string name="watermark_tab_super_moon_silhouette">Silhouette</string>
-    <string name="watermark_tab_super_moon_text">Text</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>

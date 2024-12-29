@@ -187,7 +187,6 @@
     <string name="accessibility_super_eis_pr_on">Функ. стабилно видео Pro е вкл.</string>
     <string name="accessibility_super_macro_off">Super macro е искл.</string>
     <string name="accessibility_super_macro_on">Super macro е вкл.</string>
-    <string name="accessibility_super_moon_silhouette_panel_on">Панел за уредување</string>
     <string name="accessibility_tilt_shift_circle_button">Промена на наклон. Круг.</string>
     <string name="accessibility_tilt_shift_parallel_button">Промена на наклон. Паралелно.</string>
     <string name="accessibility_time">Време</string>
@@ -1282,7 +1281,6 @@
     <string name="module_name_more">Повеќе</string>
     <string name="module_name_multi_camera">Повеќе камери</string>
     <string name="module_name_new_slow_motion">Успорено-движење</string>
-    <string name="module_name_panorama">Панорама</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1293,9 +1291,7 @@
     <string name="module_name_professional">Професионално</string>
     <string name="module_name_scanner">Скенер</string>
     <string name="module_name_square">Коцка</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Променете го растојанието за фокус овде</string>
-    <string name="module_name_super_moon">Супер Месец</string>
     <string name="module_name_video">Видео запис</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps видеата може да бидат до %2d секунди долги</string>
@@ -1665,7 +1661,6 @@
     <string name="pref_camera_normal_wide_ldc_description">Коригирај ги изобличените лица на луѓето кои се близу до работ на рамката</string>
     <string name="pref_camera_normal_wide_ldc_title">Коригирај ја изобличеноста на лицата на групните фотки</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Повлечете го копчето за затворачот налево за да додадете дополнителна лебдечка бленда, која може да се постави каде било на екранот</string>
-    <string name="pref_camera_panoramamode_title">Панорама</string>
     <string name="pref_camera_peak_entry_off">Исклучено</string>
     <string name="pref_camera_peak_entry_on">Вклучено</string>
     <string name="pref_camera_peak_title">Макс. фокус</string>
@@ -2034,7 +2029,6 @@
     <string name="simple_mode_button_text_hand_night">Исклучи HHT</string>
     <string name="simple_mode_button_text_magic_mirror">Исклучи Волшебно огледало</string>
     <string name="simple_mode_button_text_manual">Исклучи рачен режим</string>
-    <string name="simple_mode_button_text_panorama">Исклучи панорама режим</string>
     <string name="simple_mode_button_text_scene">Исклучи сценски режим</string>
     <string name="simple_mode_button_text_slow_video">Исклучи бавно видео</string>
     <string name="simple_mode_button_text_square">Исклучи Квадрат</string>
@@ -2097,18 +2091,6 @@
     <string name="super_eis_pro">Стабилно видео Pro</string>
     <string name="super_eis_pro_disabled_hint">Функ. стабилно видео Pro е искл.</string>
     <string name="super_macro_mode">Super macro</string>
-    <string name="super_moon_black_cat">Маче</string>
-    <string name="super_moon_branch_bird">Славеј</string>
-    <string name="super_moon_cable_car">Жичара</string>
-    <string name="super_moon_climb">Искачување</string>
-    <string name="super_moon_flight">Лет</string>
-    <string name="super_moon_flying_bird">Птица</string>
-    <string name="super_moon_improve_effect_tips">Сместете ја месечината во кругот</string>
-    <string name="super_moon_in_city">Улици осветлени од месечина</string>
-    <string name="super_moon_leaf">Листови</string>
-    <string name="super_moon_miss">Месечевата светлина ги допира рабовите од мојот кревет, налик на слана наросена на замрзнатата земја.</string>
-    <string name="super_moon_under">Месечева светлина</string>
-    <string name="super_moon_window">Прозорец</string>
     <string name="super_night_hint">Се оптимизира слика… Држете го стабилно уредот.</string>
     <string name="super_night_owl_toast">Држете го телефонот стабилно</string>
     <string name="super_night_se_tip">Ноќен режим</string>
@@ -2418,8 +2400,6 @@
     <string name="watermark_tab_general">Општо</string>
     <string name="watermark_tab_scene">Сцена</string>
     <string name="watermark_tab_spots">Место</string>
-    <string name="watermark_tab_super_moon_silhouette">Силуета</string>
-    <string name="watermark_tab_super_moon_text">Текст</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Сре</string>
     <string name="wednesday_shortest">Сре</string>

@@ -1362,7 +1362,6 @@ Očistite objektiv radi boljeg učinka."</string>
     <string name="module_name_more">Više</string>
     <string name="module_name_multi_camera">Multifotoaparat</string>
     <string name="module_name_new_slow_motion">Slow motion</string>
-    <string name="module_name_panorama">Panorama</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1373,9 +1372,7 @@ Očistite objektiv radi boljeg učinka."</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Skener</string>
     <string name="module_name_square">Kvadrat</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Ovdje promijenite udaljenost fokusa</string>
-    <string name="module_name_super_moon">Super mjesec</string>
     <string name="module_name_video">Videozapis</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videozapisi mogu trajati do %2d sekundi</string>
@@ -1746,7 +1743,6 @@ Držite subjekat oštrim dok zamutite pozadinu."</string>
     <string name="pref_camera_normal_wide_ldc_description">Ispravite iskrivljena lica ljudi koji su blizu ruba okvira</string>
     <string name="pref_camera_normal_wide_ldc_title">Ispravite izobličenja lica na grupnim fotografijama</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Povucite gumb zatvarača ulijevo za dodavanje dodatnog plutajućeg zatvarača koji se može postaviti bilo gdje na zaslonu</string>
-    <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_peak_entry_off">Isključi</string>
     <string name="pref_camera_peak_entry_on">Uključi</string>
     <string name="pref_camera_peak_title">Izbor fokusa</string>
@@ -2117,7 +2113,6 @@ Držite subjekat oštrim dok zamutite pozadinu."</string>
     <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
     <string name="simple_mode_button_text_magic_mirror">Isključi Magic mirror</string>
     <string name="simple_mode_button_text_manual">Isključi Ručno</string>
-    <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
     <string name="simple_mode_button_text_scene">Isključi način scena</string>
     <string name="simple_mode_button_text_slow_video">Isključi time-lapse</string>
     <string name="simple_mode_button_text_square">Isključi Kvadrat</string>
@@ -2182,18 +2177,6 @@ Držite subjekat oštrim dok zamutite pozadinu."</string>
     <string name="super_eis_pro">PRO stabilni videozapis</string>
     <string name="super_eis_pro_disabled_hint">Stabilni PRO videozapis je isključen</string>
     <string name="super_macro_mode">Super makro</string>
-    <string name="super_moon_black_cat">Mačka</string>
-    <string name="super_moon_branch_bird">Slavuj</string>
-    <string name="super_moon_cable_car">Žičara</string>
-    <string name="super_moon_climb">Penjanje</string>
-    <string name="super_moon_flight">Let</string>
-    <string name="super_moon_flying_bird">Ptica</string>
-    <string name="super_moon_improve_effect_tips">Stavite mjesec u krug</string>
-    <string name="super_moon_in_city">Mjesečina na ulici</string>
-    <string name="super_moon_leaf">Lišće</string>
-    <string name="super_moon_miss">Mjesečina pada na rub mog kreveta, izgleda kao inje na smrznutom tlu</string>
-    <string name="super_moon_under">Mjesečina</string>
-    <string name="super_moon_window">Prozor</string>
     <string name="super_night_hint">Optimiziranje slike… Neka vaš uređaj bude stabilan.</string>
     <string name="super_night_owl_toast">Držite svoj telefon mirno</string>
     <string name="super_night_se_tip">Noćni način</string>

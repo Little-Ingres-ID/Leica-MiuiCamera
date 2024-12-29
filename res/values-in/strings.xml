@@ -214,7 +214,6 @@
     <string name="accessibility_super_eis_pr_on">Video stabil PRO dihidupkan</string>
     <string name="accessibility_super_macro_off">Mode Super makro dimatikan</string>
     <string name="accessibility_super_macro_on">Mode Super makro dihidupkan</string>
-    <string name="accessibility_super_moon_silhouette_panel_on">Panel editing</string>
     <string name="accessibility_tilt_shift_circle_button">Tilt shift. Lingkaran.</string>
     <string name="accessibility_tilt_shift_parallel_button">Tilt shift. Paralel.</string>
     <string name="accessibility_time">Waktu</string>
@@ -1362,7 +1361,6 @@ objek kecil terlihat besar pada foto"</string>
     <string name="module_name_more">Lainnya</string>
     <string name="module_name_multi_camera">Multi kamera</string>
     <string name="module_name_new_slow_motion">Gerak lambat</string>
-    <string name="module_name_panorama">Panorama</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1373,9 +1371,7 @@ objek kecil terlihat besar pada foto"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Pemindai</string>
     <string name="module_name_square">Kotak</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Ubah jarak fokus di sini</string>
-    <string name="module_name_super_moon">Superbulan</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">Video %1dfps, maksimal durasi %2d dtk</string>
@@ -1750,7 +1746,6 @@ Pastikan subjek jelas saat layar belakang dibuat menjadi blur."</string>
     <string name="pref_camera_normal_wide_ldc_description">Benarkan distorsi pada wajah orang yang dekat pinggir bingkai</string>
     <string name="pref_camera_normal_wide_ldc_title">Benarkan distorsi wajah pada foto grup</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Seret tombol rana ke kiri untuk menambahkan rana mengambang tambahan, yang dapat ditempatkan di mana saja di layar</string>
-    <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_parallel_process_enable_title">Aktifkan pemrosesan paralel</string>
     <string name="pref_camera_peak_entry_off">Mati</string>
     <string name="pref_camera_peak_entry_on">Hidup</string>
@@ -2129,7 +2124,6 @@ Pastikan subjek jelas saat layar belakang dibuat menjadi blur."</string>
     <string name="simple_mode_button_text_hand_night">Matikan HHT</string>
     <string name="simple_mode_button_text_magic_mirror">Matikan Cermin ajaib</string>
     <string name="simple_mode_button_text_manual">Matikan Manual</string>
-    <string name="simple_mode_button_text_panorama">Matikan panorama</string>
     <string name="simple_mode_button_text_scene">Matikan mode Suasana</string>
     <string name="simple_mode_button_text_slow_video">Matikan selang waktu</string>
     <string name="simple_mode_button_text_square">Matikan mode Kotak</string>
@@ -2194,18 +2188,6 @@ Pastikan subjek jelas saat layar belakang dibuat menjadi blur."</string>
     <string name="super_eis_pro">Video stabil PRO</string>
     <string name="super_eis_pro_disabled_hint">Video stabil PRO dimatikan</string>
     <string name="super_macro_mode">Super makro</string>
-    <string name="super_moon_black_cat">Kucing</string>
-    <string name="super_moon_branch_bird">Burung bulbul</string>
-    <string name="super_moon_cable_car">Kereta gantung</string>
-    <string name="super_moon_climb">Mendaki</string>
-    <string name="super_moon_flight">Penerbangan</string>
-    <string name="super_moon_flying_bird">Burung</string>
-    <string name="super_moon_improve_effect_tips">Tempatkan bulan di dalam lingkaran</string>
-    <string name="super_moon_in_city">Jalan di bawah terang bulan</string>
-    <string name="super_moon_leaf">Dedaunan</string>
-    <string name="super_moon_miss">Cahaya bulan jatuh di kaki tempat tidurku, tampak seperti embun beku di tanah yang membeku.</string>
-    <string name="super_moon_under">Sinar bulan</string>
-    <string name="super_moon_window">Jendela</string>
     <string name="super_night_hint">Mengoptimalkan gambar… Pastikan perangkat stabil.</string>
     <string name="super_night_owl_toast">Jaga agar ponsel tetap stabil</string>
     <string name="super_night_se_tip">Mode Malam</string>
@@ -2517,8 +2499,6 @@ Anda dapat rekam dan mengedit video yang sedang berlangsung"</string>
     <string name="watermark_tab_general">Umum</string>
     <string name="watermark_tab_scene">Suasana</string>
     <string name="watermark_tab_spots">Tempat</string>
-    <string name="watermark_tab_super_moon_silhouette">Siluet</string>
-    <string name="watermark_tab_super_moon_text">Teks</string>
     <string name="wednesday">Rabu</string>
     <string name="wednesday_short">Rab</string>
     <string name="wednesday_shortest">Rab</string>

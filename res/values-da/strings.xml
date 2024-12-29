@@ -214,7 +214,6 @@
     <string name="accessibility_super_eis_pr_on">Video PRO uden rystelser er aktiveret</string>
     <string name="accessibility_super_macro_off">Supermakro er slået fra</string>
     <string name="accessibility_super_macro_on">Supermakro er slået til</string>
-    <string name="accessibility_super_moon_silhouette_panel_on">Redigerer panel</string>
     <string name="accessibility_tilt_shift_circle_button">Hældningsskift. Cirkel.</string>
     <string name="accessibility_tilt_shift_parallel_button">Hældningsskift. Parallel.</string>
     <string name="accessibility_time">Tid</string>
@@ -1362,7 +1361,6 @@ til at se store ud på fotos"</string>
     <string name="module_name_more">Mere</string>
     <string name="module_name_multi_camera">Multikamera</string>
     <string name="module_name_new_slow_motion">Slowmotion</string>
-    <string name="module_name_panorama">Panorama</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1373,9 +1371,7 @@ til at se store ud på fotos"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Scanner</string>
     <string name="module_name_square">Kvadrat</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Skift fokusafstand her</string>
-    <string name="module_name_super_moon">Supermåne</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1d fps-videoer kan være op til %2d sekunder lange</string>
@@ -1746,7 +1742,6 @@ Hold motivet skarpt, mens du slører baggrunden."</string>
     <string name="pref_camera_normal_wide_ldc_description">Ret forvrængede ansigter på personer, der er tæt på kanten af billedet</string>
     <string name="pref_camera_normal_wide_ldc_title">Ret ansigtsforvrængninger på gruppebilleder</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Træk lukkerknappen til venstre for at tilføje en ekstra flydende lukker, som kan placeres hvor som helst på skærmen</string>
-    <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_peak_entry_off">Slukket</string>
     <string name="pref_camera_peak_entry_on">Slå til</string>
     <string name="pref_camera_peak_title">Fokusoptimering</string>
@@ -2117,7 +2112,6 @@ Hold motivet skarpt, mens du slører baggrunden."</string>
     <string name="simple_mode_button_text_hand_night">Sluk HHT</string>
     <string name="simple_mode_button_text_magic_mirror">Sluk Magisk spejl</string>
     <string name="simple_mode_button_text_manual">Sluk Manuel</string>
-    <string name="simple_mode_button_text_panorama">Sluk panorama</string>
     <string name="simple_mode_button_text_scene">Sluk Scenetilstand</string>
     <string name="simple_mode_button_text_slow_video">Deaktivér time-lapse</string>
     <string name="simple_mode_button_text_square">Sluk Kvadrat</string>
@@ -2182,18 +2176,6 @@ Hold motivet skarpt, mens du slører baggrunden."</string>
     <string name="super_eis_pro">Video PRO uden rystelser</string>
     <string name="super_eis_pro_disabled_hint">Video PRO uden rystelser er deaktiveret</string>
     <string name="super_macro_mode">Super makro</string>
-    <string name="super_moon_black_cat">Kat</string>
-    <string name="super_moon_branch_bird">Nattergal</string>
-    <string name="super_moon_cable_car">Svævebane</string>
-    <string name="super_moon_climb">Klatring</string>
-    <string name="super_moon_flight">Fly</string>
-    <string name="super_moon_flying_bird">Fugl</string>
-    <string name="super_moon_improve_effect_tips">Placer månen i cirklen</string>
-    <string name="super_moon_in_city">Månebelyste gader</string>
-    <string name="super_moon_leaf">Blade</string>
-    <string name="super_moon_miss">Måneskin skinner på foden af ​​min seng og ligner frost på den frosne jord.</string>
-    <string name="super_moon_under">Måneskin</string>
-    <string name="super_moon_window">Vindue</string>
     <string name="super_night_hint">Optimerer billede… Hold din enhed roligt.</string>
     <string name="super_night_owl_toast">Hold din telefon i ro</string>
     <string name="super_night_se_tip">Nattilstand</string>
@@ -2505,8 +2487,6 @@ optage og redigere videoer, mens du er på farten"</string>
     <string name="watermark_tab_general">Generelt</string>
     <string name="watermark_tab_scene">Scene</string>
     <string name="watermark_tab_spots">Site</string>
-    <string name="watermark_tab_super_moon_silhouette">Silhuet</string>
-    <string name="watermark_tab_super_moon_text">Tekst</string>
     <string name="wednesday">Onsdag</string>
     <string name="wednesday_short">Ons</string>
     <string name="wednesday_shortest">Ons</string>

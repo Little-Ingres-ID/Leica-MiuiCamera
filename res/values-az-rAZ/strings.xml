@@ -1282,7 +1282,6 @@ Daha yaxşı effekt üçün kamera obyektivini təmizləyin."</string>
     <string name="module_name_more">Daha çox</string>
     <string name="module_name_multi_camera">Multicam</string>
     <string name="module_name_new_slow_motion">Yavaşladılmış çəkiliş</string>
-    <string name="module_name_panorama">Panorama</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1293,9 +1292,7 @@ Daha yaxşı effekt üçün kamera obyektivini təmizləyin."</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Skaner</string>
     <string name="module_name_square">Kvadrat</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Burada fokus məsafəsini dəyişdirin</string>
-    <string name="module_name_super_moon">Süper Ay</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">VLOQ</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videoları %2d saniyə uzunluğuna qədər ola bilər</string>
@@ -1665,7 +1662,6 @@ və insanları önə çıxarır."</string>
     <string name="pref_camera_normal_wide_ldc_description">Çərçivənin kənarına yaxın olan insanların düzgün şəkildə təhrif edilmiş üzləri</string>
     <string name="pref_camera_normal_wide_ldc_title">Qrup şəkillərində düzgün üz təhrifləri</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Ekranın istənilən yerinə yerləşdirilə bilən əlavə üzən çəkim əlavə etmək üçün çəkim düyməsini sola çəkin</string>
-    <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_peak_entry_off">Bağlı</string>
     <string name="pref_camera_peak_entry_on">Açıq</string>
     <string name="pref_camera_peak_title">Yüksək fokus</string>
@@ -2034,7 +2030,6 @@ və insanları önə çıxarır."</string>
     <string name="simple_mode_button_text_hand_night">HHT rejimini bağla</string>
     <string name="simple_mode_button_text_magic_mirror">Sehrli güzgünü bağla</string>
     <string name="simple_mode_button_text_manual">Əl ilə rejimini bağla</string>
-    <string name="simple_mode_button_text_panorama">Panoramanı bağla</string>
     <string name="simple_mode_button_text_scene">Səhnə rejimini bağla</string>
     <string name="simple_mode_button_text_slow_video">Sürətləndirilmiş çəkilişi bağla</string>
     <string name="simple_mode_button_text_square">Kvadrat rejimini bağla</string>
@@ -2097,18 +2092,6 @@ və insanları önə çıxarır."</string>
     <string name="super_eis_pro">Sabit video PRO</string>
     <string name="super_eis_pro_disabled_hint">Sabit video PRO bağlıdır</string>
     <string name="super_macro_mode">Super makro</string>
-    <string name="super_moon_black_cat">Pişik</string>
-    <string name="super_moon_branch_bird">Bülbül</string>
-    <string name="super_moon_cable_car">Kabel avtomobil</string>
-    <string name="super_moon_climb">Dırmaşma</string>
-    <string name="super_moon_flight">Uçuş</string>
-    <string name="super_moon_flying_bird">Quş</string>
-    <string name="super_moon_improve_effect_tips">Ayı dairəyə yerləşdirin</string>
-    <string name="super_moon_in_city">Ay işıqlı küçələr</string>
-    <string name="super_moon_leaf">Yarpaqlar</string>
-    <string name="super_moon_miss">Ay işığı yatağımın ətəyinə düşür, donmuş yerdə don kimi görünür.</string>
-    <string name="super_moon_under">Ay işığı</string>
-    <string name="super_moon_window">Pəncərə</string>
     <string name="super_night_hint">Şəkil optimallaşdırılır… Cihazınızı stabil saxlayın.</string>
     <string name="super_night_owl_toast">Telefonunuzu sabit saxlayın</string>
     <string name="super_night_se_tip">Gecə rejimi</string>

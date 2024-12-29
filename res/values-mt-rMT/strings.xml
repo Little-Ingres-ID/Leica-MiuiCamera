@@ -1282,7 +1282,6 @@ jidhru ikbar fir-ritratti"</string>
     <string name="module_name_more">Iktar</string>
     <string name="module_name_multi_camera">Multicam</string>
     <string name="module_name_new_slow_motion">Għaddej bil-mod</string>
-    <string name="module_name_panorama">Panorama</string>
     <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
@@ -1293,9 +1292,7 @@ jidhru ikbar fir-ritratti"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Skenner</string>
     <string name="module_name_square">Kaxxa</string>
-    <string name="module_name_street">Fastshot</string>
     <string name="module_name_street_hint">Ibdel il-bogħod tal-fokus minn hawn</string>
-    <string name="module_name_super_moon">Superqamar</string>
     <string name="module_name_video">Vidjo</string>
     <string name="module_name_vlog">VLOG</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dvidjos fps jistgħu jkunu sa %2d sekonda twal</string>
@@ -1665,7 +1662,6 @@ u tevidenzja n-nies fuq quddiem."</string>
     <string name="pref_camera_normal_wide_ldc_description">"Irranġa l-uċuħ mgħawwġa ta' dawk viċin it-truf tal-gwarniċ"</string>
     <string name="pref_camera_normal_wide_ldc_title">Irranġa l-uċuħ mgħawwġa fir-ritratti tal-grupp</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">"Kaxkar il-buttuna tax-shutter lejn ix-xellug biex iżżid shutter ieħor li jżomm fil-wiċċ u li jista' jitqiegħed fejn trid fuq l-iskrin"</string>
-    <string name="pref_camera_panoramamode_title">Panorama</string>
     <string name="pref_camera_peak_entry_off">Mitfi</string>
     <string name="pref_camera_peak_entry_on">Mixgħul</string>
     <string name="pref_camera_peak_title">Quċċata tal-fokus</string>
@@ -2034,7 +2030,6 @@ u tevidenzja n-nies fuq quddiem."</string>
     <string name="simple_mode_button_text_hand_night">Itfi l-HHT</string>
     <string name="simple_mode_button_text_magic_mirror">Itfi l-Mera maġika</string>
     <string name="simple_mode_button_text_manual">Itfi Manwali</string>
-    <string name="simple_mode_button_text_panorama">Itfi l-panorama</string>
     <string name="simple_mode_button_text_scene">Itfi l-modalità tax-Xena</string>
     <string name="simple_mode_button_text_slow_video">Itfi t-time-lapse</string>
     <string name="simple_mode_button_text_square">Itfi l-Kaxxa</string>
@@ -2097,18 +2092,6 @@ u tevidenzja n-nies fuq quddiem."</string>
     <string name="super_eis_pro">Vidjo stabbli PRO</string>
     <string name="super_eis_pro_disabled_hint">Vidjo stabbli PRO mitfi</string>
     <string name="super_macro_mode">Super makro</string>
-    <string name="super_moon_black_cat">Qattus</string>
-    <string name="super_moon_branch_bird">Rużinjol</string>
-    <string name="super_moon_cable_car">Cable car</string>
-    <string name="super_moon_climb">Tixbit</string>
-    <string name="super_moon_flight">Titjira</string>
-    <string name="super_moon_flying_bird">Għasfur</string>
-    <string name="super_moon_improve_effect_tips">Qiegħed lill-qamar fiċ-ċirku</string>
-    <string name="super_moon_in_city">Toroq bid-dawl tal-qamar</string>
-    <string name="super_moon_leaf">Weraq</string>
-    <string name="super_moon_miss">Id-dawl tal-qamar jiddi fuq tarf is-sodda, bħal ġlata fuq l-art iffriżata.</string>
-    <string name="super_moon_under">Dawl tal-qamar</string>
-    <string name="super_moon_window">Tieqa</string>
     <string name="super_night_hint">Qed itejjeb l-istampa… Iċċaqlaqx it-tagħmir tiegħek.</string>
     <string name="super_night_owl_toast">Żomm sod il-mowbajl tiegħek</string>
     <string name="super_night_se_tip">Modalità tal-lejl</string>
